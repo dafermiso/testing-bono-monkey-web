@@ -1,0 +1,24 @@
+{
+  "name": "testing-losestudiantes",
+  "version": "1.0.0",
+  "description": "Pruebas automatizadas del sitio web los estiudiantes\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C (bono\u001b[D\u001b[D\u001b[D\u001b[Dtutorial-\u001b[C\u001b[C\u001b[D\u001b[D\u001b[3~\u001b[3~\u001b[3~bono)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testing",
+    "qa",
+    "automation",
+    "sitio",
+    "web",
+    "los",
+    "estudiantes"
+  ],
+  "author": "dafer",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dafermiso/bonoLosEstudaintesCypress"
+  }
+}
